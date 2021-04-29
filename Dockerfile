@@ -11,6 +11,7 @@ RUN set -e -x; \
             curl \
             jq \
             git \
+            coreutils \
             openssh-client \
         ;
 
